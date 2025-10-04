@@ -5,8 +5,8 @@ const readline = require(`readline-sync`);
 
 let numero = Number(readline.question(" digite um numero de 1 a 7 : "));
 
-if (numero === 1) {
-  console.log("Domingo");
+if (numero === 1) {// eu queria ter feito com operadores ternarios porém eu teria que estudar muito
+  console.log("Domingo");// e fatorado, mas pra isso preciso estudar mais
 } else if (numero === 2) {
   console.log("Segunda -feira");
 } else if (numero === 3) {
