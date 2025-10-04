@@ -3,7 +3,7 @@
 
 const readline = require("readline-sync");
 
-let N = Number(readline.question("insira um numero:"));
+let N = Number(readline.question("insira um numero:"));// precisa promeiro declarar a variável N
 let soma = 0;
 
 for ( let i = 1; i  <= N; i++){//
