@@ -9,3 +9,4 @@ let N = parseInt(readline.question("insira um numero inteiro positivo: "));
 //e que é maior que zero por isso eu usei o parseint, porque ele só trabalha com 
 // numeros inteiros Inteiros = não têm vírgula (como 2.5 ou 3,14 
 // Positivos = estão acima de zero (não são negativos
+
